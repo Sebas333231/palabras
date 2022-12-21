@@ -3,6 +3,10 @@ Este es un proyecto el cual genera diez palabras cuando vas bajando, estas palab
 
 ![image](https://user-images.githubusercontent.com/110652225/208938563-1baeb79e-6355-47d8-81b4-b2dce7418190.png)
 
+palabras seleccionadas:
+
+![image](https://user-images.githubusercontent.com/110652225/208938912-b59e7a43-1779-4057-a84f-66d4f569e96a.png)
+
 curved_navigation_bar: ^1.0.3
 
 ![image](https://user-images.githubusercontent.com/110652225/208937482-d6d03db7-ece4-45b3-8bab-dfbec17193ad.png)
