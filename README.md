@@ -10,6 +10,7 @@ palabras seleccionadas:
 ![image](https://user-images.githubusercontent.com/110652225/208939205-685cef6d-6921-44a4-85b2-3099da8ec0a6.png)
 
 curved_navigation_bar: ^1.0.3
+https://pub.dev/packages/curved_navigation_bar
 
 ![image](https://user-images.githubusercontent.com/110652225/208937482-d6d03db7-ece4-45b3-8bab-dfbec17193ad.png)
 
