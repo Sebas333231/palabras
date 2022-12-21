@@ -7,6 +7,8 @@ palabras seleccionadas:
 
 ![image](https://user-images.githubusercontent.com/110652225/208938912-b59e7a43-1779-4057-a84f-66d4f569e96a.png)
 
+![image](https://user-images.githubusercontent.com/110652225/208939205-685cef6d-6921-44a4-85b2-3099da8ec0a6.png)
+
 curved_navigation_bar: ^1.0.3
 
 ![image](https://user-images.githubusercontent.com/110652225/208937482-d6d03db7-ece4-45b3-8bab-dfbec17193ad.png)
