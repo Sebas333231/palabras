@@ -24,4 +24,4 @@ import 'package:english_words/english_words.dart';
 main() {
   nouns.take(50).forEach(print);
 }
-
+https://pub.dev/packages/english_words
